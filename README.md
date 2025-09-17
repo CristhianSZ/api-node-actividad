@@ -30,7 +30,7 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
    ```bash
    npm run dev
    ```
-   Inicia el servidor con node:
+   O sino inicia el servidor con node:
    ```bash
    npm run start
    ```
