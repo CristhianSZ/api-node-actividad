@@ -26,10 +26,15 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
    ```
 
 3. **Ejecutar la API**:
-   Inicia el servidor con:
+   Inicia el servidor con nodemon:
    ```bash
-   node server.js
+   npm run dev
    ```
+   Inicia el servidor con node:
+   ```bash
+   npm run start
+   ```
+   Los accesos direccion se pueden ver en el archivo `package.json` en la clave `script`
    La API estará disponible en `http://localhost:3000`.
 
 ## Estructura del Proyecto
@@ -156,6 +161,7 @@ Asegúrate de que el servidor esté corriendo en `http://localhost:3000` antes d
 }
 ```
 ![404](./screenshots/404.png)
+
 
 ## Configuración de Morgan
 
