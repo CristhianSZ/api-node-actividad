@@ -43,7 +43,7 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 api-nodejs-actividad/
 ├── server.js          # Archivo principal con la lógica de la API
 ├── package.json       # Dependencias y scripts del proyecto
-├── screenshots/       # Carpeta con capturas de pantalla (opcional)
+├── screenshots/       # Carpeta con capturas de pantalla
 └── README.md          # Este archivo
 ```
 
